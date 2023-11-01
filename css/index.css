@@ -27,6 +27,8 @@ header nav a {
     text-decoration: none;
 }
 
+
+
 main {
     width: 100%;
     margin-left: auto;
@@ -280,3 +282,6 @@ iframe {
  }
 }
 
+@media screen and (max-width: 768px) {
+  /* Estilos para telas menores, como smartphones */
+}
